@@ -29,19 +29,7 @@ const data = {
       numReviews: 10,
       description: 'high quality shirt',
     },
-    {
-      
-      name: 'Kurti',
-      slug: 'adidas-fit-shirt',
-      category: 'Women Tops',
-      image: '/images/product_img1.jpg',
-      price: 250,
-      countInStock: 20,
-      brand: 'Adidas',
-      rating: 4.0,
-      numReviews: 10,
-      description: 'high quality product',
-    },
+   
 
     {
       // _id: '2',
